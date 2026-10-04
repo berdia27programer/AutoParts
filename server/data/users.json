@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Alice",
+    "email" : "alice@gmail.com"
+  },
+  {
+    "name": "Bob",
+    "email": "bob@gmail.com"
+  },
+  {
+    "name": "Charlie",
+    "email": "charlie@gmail.com"
+  },
+  {
+    "name": "Diana",
+    "email": "diana@gmail.com"
+  },
+  {
+    "name": "Ethan",
+    "email": "ethan@gmail.com"
+  },
+  {
+    "name": "Fiona",
+    "email": "fiona@gmail.com"
+  },
+  {
+    "name": "George",
+    "email": "george@gmail.com"
+  },
+  {
+    "name": "Hannah",
+    "email": "hannah@gmail.com"
+  },
+  {
+    "name": "Ivan",
+    "email": "ivan@gmail.com"
+  },
+  {
+    "name": "Julia",
+    "email": "julia@gmail.com"
+  }
+]
